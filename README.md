@@ -20,6 +20,13 @@ cd frontend
 npm install
 npm run dev
 ```
+### run the server
+
+npm install
+npm start
+
+
+```
 
 Open http://localhost:5173
 
