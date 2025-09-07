@@ -11,7 +11,7 @@ This zip contains a working skeleton for:
 cd backend
 cp .env.example .env  # fill MONGO_URI and JWT_SECRET
 npm install
-npm run dev
+npm start
 ```
 
 ### Frontend
