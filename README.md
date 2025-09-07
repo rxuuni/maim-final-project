@@ -24,3 +24,19 @@ npm run dev
 Open http://localhost:5173
 
 Create an Admin by registering with role "admin".
+
+netlify link
+
+https://precious-chebakia-ad1a09.netlify.app/
+
+I attempted to open the link you provided, but I wasn't able to fetch the page's content. Could you please share a bit more detail about what's on that site (e.g., features, layout, functionality)? This will help me craft clear and useful documentation in English tailored to that application. Let me know a bit about:
+
+The name of the app or what it does (e.g., event booking, dashboard, studio).
+
+Key pages and features (e.g., login, event listing, checkout, admin panel).
+
+User flows or main tasks someone would do on the site.
+
+Any special technologies or frameworks you're using (e.g., React, Tailwind).
+
+Once I have this info, I’ll draft a clean, organized documentation for you.
