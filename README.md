@@ -27,7 +27,8 @@ Create an Admin by registering with role "admin".
 
 netlify link
 
-https://precious-chebakia-ad1a09.netlify.app/
+https://rad-begonia-b12e6a.netlify.app/
+
 
 I attempted to open the link you provided, but I wasn't able to fetch the page's content. Could you please share a bit more detail about what's on that site (e.g., features, layout, functionality)? This will help me craft clear and useful documentation in English tailored to that application. Let me know a bit about:
 
