@@ -22,7 +22,10 @@ npm run dev
 ```
 ### run the server
 
+cd backend
+
 npm install
+
 npm start
 
 
